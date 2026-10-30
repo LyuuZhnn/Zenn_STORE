@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="t d">
+<title id="t">Featured Collection</title><desc id="d">Koleksi unggulan bergaya editorial dengan podium geometris, headphone, jam, dan kotak digital.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091d45"/><stop offset=".54" stop-color="#123e70"/><stop offset="1" stop-color="#1d7895"/></linearGradient>
+ <linearGradient id="pedestal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9ae6ed"/><stop offset="1" stop-color="#3878b9"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff1c9"/><stop offset="1" stop-color="#e5a957"/></linearGradient>
+ <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%"><feGaussianBlur in="SourceAlpha" stdDeviation="16"/><feOffset dy="18"/><feComponentTransfer><feFuncA type="linear" slope=".36"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="960" height="620" rx="40" fill="url(#bg)"/><circle cx="770" cy="105" r="210" fill="#3dd1db" opacity=".13"/><circle cx="160" cy="580" r="250" fill="#040f30" opacity=".32"/>
+<g fill="none" stroke="#89e8f4" stroke-width="2" opacity=".32"><circle cx="490" cy="300" r="245"/><circle cx="490" cy="300" r="205" stroke-dasharray="6 14"/><path d="M40 150h160m-160 20h95M735 500h160m-120 20h120"/></g>
+<g transform="translate(190 165)" filter="url(#shadow)">
+ <path d="M60 300h490v84H60z" fill="#0b2e59" opacity=".7"/>
+ <path d="M60 300 165 235h385L445 300z" fill="#b9eff3"/><path d="M60 300h385v84H60z" fill="url(#pedestal)"/><path d="M445 300 550 235v85l-105 64z" fill="#2865a3"/>
+ <g transform="translate(100 42)"><rect x="0" y="100" width="150" height="155" rx="22" fill="url(#gold)" stroke="#fff2d7" stroke-width="4"/><path d="M35 100V72c0-28 18-48 40-48s40 20 40 48v28" fill="none" stroke="#fff4d9" stroke-width="11" stroke-linecap="round"/><circle cx="75" cy="177" r="35" fill="#fff7e5"/><path d="m62 177 10 10 20-25" fill="none" stroke="#c27a35" stroke-width="8" stroke-linecap="round"/></g>
+ <g transform="translate(290 12)"><circle cx="80" cy="125" r="87" fill="#0c294d" stroke="#9aeaf0" stroke-width="8"/><circle cx="80" cy="125" r="64" fill="#d6f7f5"/><circle cx="80" cy="125" r="48" fill="#1e6b8c"/><path d="M80 125V91m0 34 28 15" stroke="#fff" stroke-width="8" stroke-linecap="round"/><path d="M32 40 14 12M128 40l18-28" stroke="#b8f6f2" stroke-width="12" stroke-linecap="round"/></g>
+ <g transform="translate(450 98)"><path d="M0 54a63 63 0 0 1 126 0v67H96V55a33 33 0 0 0-66 0v66H0z" fill="#e4f8ff" stroke="#68c7dc" stroke-width="5"/><rect x="0" y="92" width="34" height="77" rx="15" fill="#45a8c5"/><rect x="92" y="92" width="34" height="77" rx="15" fill="#607dd0"/></g>
+</g>
+<g transform="translate(62 80)"><rect width="180" height="60" rx="18" fill="#fff" fill-opacity=".12" stroke="#b9f5ff" stroke-opacity=".5"/><circle cx="28" cy="30" r="10" fill="#52dce5"/><text x="49" y="27" fill="#e9fbff" font-family="Arial,sans-serif" font-size="13" font-weight="700">FEATURED</text><text x="49" y="43" fill="#a9d6ea" font-family="Arial,sans-serif" font-size="10">CURATED COLLECTION</text></g>
+<g fill="#a8f1f2"><circle cx="812" cy="258" r="5"/><circle cx="130" cy="440" r="7"/><circle cx="760" cy="520" r="4"/></g>
+</svg>
